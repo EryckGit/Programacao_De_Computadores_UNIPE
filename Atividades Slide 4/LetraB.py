@@ -1,4 +1,4 @@
-#Algorítmo de Média
+#Desenvolva um algoritmo que receba cinco números, calcule a média aritmética e apresente o resultado final.
 
 print("Digite cinco números os quais você deseja calcular a média aritmética.")
 numero1 = (int(input("Digite o primeiro número: ")))
