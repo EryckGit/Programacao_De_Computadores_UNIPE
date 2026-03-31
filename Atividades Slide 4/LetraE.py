@@ -1,4 +1,4 @@
-#Algorítmo de IMC
+#Construa um algoritmo que receba a altura e o peso de uma pessoa e calcule o Índice de Massa Corporal (IMC).
 
 print("Calcule seu IMC com base no seu peso e altura")
 peso = int(input("Qual o seu peso? "))
